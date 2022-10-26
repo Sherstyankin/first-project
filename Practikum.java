@@ -1,2 +1,3 @@
-efe
+public class Main {
+}
 
